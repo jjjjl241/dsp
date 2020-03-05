@@ -1,6 +1,7 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
 
 def WeightDifference(live, firsts, others):
+      
       mean0 = live.totalwgt_lb.mean()
       mean1 = firsts.totalwgt_lb.mean()
       mean2 = others.totalwgt_lb.mean()
