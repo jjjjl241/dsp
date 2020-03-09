@@ -2,6 +2,7 @@
 
 Yes, the distribution is uniform
 
+```
 t = np.random.random(1000)
 
 pmf = thinkstats2.Pmf(t)
@@ -11,3 +12,4 @@ thinkplot.Config(xlabel='Random variate', ylabel='PMF')
 cdf = thinkstats2.Cdf(t)
 thinkplot.Cdf(cdf)
 thinkplot.Config(xlabel='Random variate', ylabel='CDF')
+```
