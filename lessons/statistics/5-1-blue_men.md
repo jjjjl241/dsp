@@ -6,9 +6,6 @@ import scipy.stats
 mu = 178
 sigma = 7.7
 dist = scipy.stats.norm(loc=mu, scale=sigma)
-type(dist)
-
-dist.mean(), dist.std()
 
 low = dist.cdf(177.8)    # 5'10"
 high = dist.cdf(185.4)   # 6'1"
