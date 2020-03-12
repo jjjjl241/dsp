@@ -1,10 +1,10 @@
 [Think Stats Chapter 7 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2008.html#toc70) (weight vs. age)
 
 Percentile plot:  
-![percentile plot](https://github.com/syntheticjohn/dsp/blob/syntheticjohn/img/Percentile%20plot.png)  
+![percentile plot](https://github.com/syntheticjohn/dsp/blob/syntheticjohn/img/Percentile%20plot.png)
 
 Scatterplot:  
-![scatterplot](https://github.com/syntheticjohn/dsp/blob/syntheticjohn/img/Scatterplot.png)  
+![scatterplot](https://github.com/syntheticjohn/dsp/blob/syntheticjohn/img/Scatterplot.png)
 
 Conclusions:
 1) The scatterplot shows a weak relationship between the variables  
