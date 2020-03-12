@@ -3,6 +3,8 @@
 Mean of actual distribution = 1.024205155043831  
 Mean of biased distribution = 2.403679100664282
 
+Actual vs biased plot:
+
 ![Actual vs biased plot](https://github.com/syntheticjohn/dsp/blob/syntheticjohn/img/Actual%20vs%20biased%20plot)
 
 ```
