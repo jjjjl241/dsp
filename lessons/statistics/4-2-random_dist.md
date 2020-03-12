@@ -2,6 +2,10 @@
 
 Yes, the distribution is uniform
 
+Plot of the CDF:
+
+![Uniform CDF plot](https://github.com/syntheticjohn/dsp/blob/syntheticjohn/img/Uniform%20CDF%20plot) 
+
 ```
 t = np.random.random(1000)
 
