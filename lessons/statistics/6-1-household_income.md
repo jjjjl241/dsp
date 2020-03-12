@@ -1,11 +1,11 @@
 [Think Stats Chapter 6 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2007.html#toc60) (household income)
 
-Mean (sample) = 74278.70753118739 
-Median (sample) = 51226.45447894046
-Skewness (sample) = 4.949920244429579
-PearsonMedianSkewness (sample) = 0.7361258019141795
+Mean (sample) = 74278.70753118739    
+Median (sample) = 51226.45447894046   
+Skewness (sample) = 4.949920244429579  
+PearsonMedianSkewness (sample) = 0.7361258019141795  
 
-About 66% of the population makes less than the mean
+About 66% of the population makes less than the mean  
 
 
 ```
